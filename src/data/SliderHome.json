@@ -1,0 +1,31 @@
+{
+    "slider":[
+        {
+            "id": 1,
+            "title": "Deje sus cuentas en nuestras manos, nosotros hacemos el trabajo.",
+            "subTitle1": "Contabilidad",
+            "subTitle2": "Simple y Precisa",
+            "btnText": "Conozca mas",
+            "bgImg": "/assets/img/bg/cvp-hero-bg-1.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg.jpg"
+
+        },
+        {
+            "id": 3,
+            "title": "Make your new business plan a success!",
+            "subTitle1": "Make your",
+            "subTitle2": "Business Boom",
+            "btnText": "Get in touch",
+            "bgImg": "/assets/img/bg/hero-bg-1.jpg"
+
+        }
+    ]
+}
