@@ -11,6 +11,8 @@ const HomeSlider = () => {
     dots: false,
     fade: true,
     arrows: false,
+    infinite: true,
+    pauseOnHover: false,
     responsive: [
       {
         breakpoint: 992,
