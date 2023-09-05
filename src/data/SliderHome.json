@@ -8,6 +8,31 @@
             "btnText": "Conozca mas",
             "bgImg": "/assets/img/bg/cvp-hero-bg-1.jpg"
 
+        },
+        {
+            "id": 2,
+            "title": "Profesionales comprometidos con su tranquilidad legal.",
+            "subTitle1": "Expertos",
+            "subTitle2": "en Derecho",
+            "btnText": "Conozca mas",
+            "bgImg": "/assets/img/bg/cvp-hero-bg-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Soluciones efectivas en el cumplimiento de normativas laborales.",
+            "subTitle1": "Consultoria Laboral",
+            "subTitle2": "para Empresas",
+            "btnText": "Conozca mas",
+            "bgImg": "/assets/img/bg/cvp-hero-bg-3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Manejo profesional para sus necesidades de importación y exportación.",
+            "subTitle1": "Asesoria Aduanera",
+            "subTitle2": "Eficiente",
+            "btnText": "Conozca mas",
+            "bgImg": "/assets/img/bg/cvp-hero-bg-4.jpg"
         }
+        
     ]
 }
