@@ -1,6 +1,7 @@
 import React from "react";
 import Menu from "../common/Menu/Menu";
 import HomeSlider from "./HomeSlider";
+import OurServices from "../Services/OurServices";
 // import Footer from "../common/Footer/Footer";
 // import Gallery from "./Gallery";
 // import Team from "../common/Team/Team";
@@ -18,6 +19,7 @@ const Home = () => {
     <>
       <Menu />
       <HomeSlider />
+      <OurServices />
       {/* 
       <TopAbout />
       <TopCtaArea />

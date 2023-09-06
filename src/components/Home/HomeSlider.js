@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { Link } from "react-router-dom";
+import Link from "../common/Link";
 import Slider from "react-slick";
 import slider from "../../data/SliderHome.json";
 
@@ -7,7 +7,7 @@ const HomeSlider = () => {
   const sliderRef = useRef(null);
   const settings = {
     autoplay: true,
-    autoplaySpeed: 4000,
+    Link: 4000,
     dots: false,
     fade: true,
     arrows: false,
@@ -43,7 +43,8 @@ const HomeSlider = () => {
                       </h3>
 
                       <Link
-                        to="/"
+                        smooth={true}
+                        to={"our-services"}
                         className="tp-slider-btn mt-40 d-inline-block"
                       >
                         <span>

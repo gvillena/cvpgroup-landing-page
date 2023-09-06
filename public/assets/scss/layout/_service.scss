@@ -11,6 +11,8 @@
     }
 
     &__icon {
+        display: flex;
+        justify-content: center;
         font-size: 52px;
         color: var(--tp-common-black);
     }
